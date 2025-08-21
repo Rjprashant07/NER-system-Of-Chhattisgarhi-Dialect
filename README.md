@@ -5,7 +5,7 @@ NER is a crucial task in Natural Language Processing (NLP) that automatically id
 Since Chhattisgarhi and its dialects are underrepresented in NLP research, this project aims to build a resource and system to support future computational linguistics work for these languages.
 
 
-Project Overview
+#Project Overview
 
 Objective:
 To collect, preprocess, and annotate Chhattisgarhi dialectal data for training NER models using transformer-based architectures such as mBERT, IndicBERT, MuRIL, and XLM-RoBERTa.
@@ -19,19 +19,14 @@ The dataset is compiled from multiple authentic online resources, including:
 
 🎥 YouTube channels featuring Chhattisgarhi dialects
 
-Dialects Covered:
+#Dialects Covered:
 
-Standard Chhattisgarhi
-
-Sarguijha
-
-Baiagni
-
-Halbi
-
-Gondi
-
-Sadri
+1.Standard Chhattisgarhi
+2.Sarguijha
+3.Baiagni
+4.Halbi
+5.Gondi
+6.Sadri
 
 📂 Dataset
 
