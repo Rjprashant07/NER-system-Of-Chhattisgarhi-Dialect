@@ -22,6 +22,7 @@ The dataset is compiled from multiple authentic online resources, including:
 ##Dialects Covered:
 
 1.Standard Chhattisgarhi
+
 2.Sarguijha
 
 3.Baiagni
