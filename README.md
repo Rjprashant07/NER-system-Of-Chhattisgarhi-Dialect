@@ -1,5 +1,6 @@
 # NER-system-Of-Chhattisgarhi-Dialect
 (This project Done under the supervisoion of DR.Rajesh kr. Mundotiya (CSE,IIT BHILAI). The Datasets and Nerlabeled dataset is not uploaded due to copyright)
+
 This project focuses on developing a Named Entity Recognition (NER) system for the Chhattisgarhi dialect and its regional variations.
 NER is a crucial task in Natural Language Processing (NLP) that automatically identifies entities such as persons, locations, organizations, dates, and more from text.
 
