@@ -23,10 +23,15 @@ The dataset is compiled from multiple authentic online resources, including:
 
 1.Standard Chhattisgarhi
 2.Sarguijha
+
 3.Baiagni
+
 4.Halbi
+
 5.Gondi
+
 6.Sadri
+
 
 📂 Dataset
 
@@ -34,13 +39,15 @@ Data is collected in raw form from multiple sources.
 
 Preprocessing includes:
 
-Tokenization
+1.Tokenization
 
-Cleaning (removal of noise, special symbols, etc.)
+2.Cleaning (removal of noise, special symbols, etc.)
 
-Normalization (handling script/orthographic variations)
+3.Normalization (handling script/orthographic variations)
 
-Annotation is performed for NER labels (Person, Location, Organization, Miscellaneous, etc.).
+4.Annotation is performed for NER labels (Person, Location, Organization, Miscellaneous, etc.). Following Indian Language Named Entities Tagset and Annotation
+Guidelines
+Prepared
 
 The dataset follows a CSV/JSON format suitable for HuggingFace Transformers.
 
