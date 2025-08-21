@@ -1,13 +1,14 @@
 # NER-system-Of-Chhattisgarhi-Dialect
 (This project Done under the supervisoion of DR.Rajesh kr. Mundotiya (CSE,IIT BHILAI). The Datasets and Nerlabeled dataset is not uploaded due to copyright)
 
+## Introduction
 This project focuses on developing a Named Entity Recognition (NER) system for the Chhattisgarhi dialect and its regional variations.
 NER is a crucial task in Natural Language Processing (NLP) that automatically identifies entities such as persons, locations, organizations, dates, and more from text.
 
 Since Chhattisgarhi and its dialects are underrepresented in NLP research, this project aims to build a resource and system to support future computational linguistics work for these languages.
 
 
-##Project Overview
+## Project Overview
 
 Objective:
 To collect, preprocess, and annotate Chhattisgarhi dialectal data for training NER models using transformer-based architectures such as mBERT, IndicBERT, MuRIL, and XLM-RoBERTa.
@@ -21,7 +22,7 @@ The dataset is compiled from multiple authentic online resources, including:
 
 🎥 YouTube channels featuring Chhattisgarhi dialects
 
-##Dialects Covered:
+## Dialects Covered:
 
 1.Standard Chhattisgarhi
 
@@ -36,7 +37,7 @@ The dataset is compiled from multiple authentic online resources, including:
 6.Sadri
 
 
-📂 Dataset
+## 📂 Dataset
 
 Data is collected in raw form from multiple sources.
 
@@ -54,7 +55,7 @@ Prepared
 
 The dataset follows a CSV/JSON format suitable for HuggingFace Transformers.
 
-⚙️ Methodology
+## ⚙️ Methodology
 
 Data Collection & Cleaning
 
