@@ -61,7 +61,7 @@ Data Collection & Cleaning
 
 NER Annotation (BIO tagging scheme)
 
-Model Training with transformer-based multilingual models:
+Model Training with CRF,transformer-based multilingual models:
 
 bert-base-multilingual-cased (HindiBERT)
 
